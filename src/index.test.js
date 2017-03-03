@@ -5,7 +5,7 @@ import fs from 'fs';
 describe('Our first test', () => {
 	"use strict";
 	it('should pass', () => {
-		expect(true).to.equal(false);
+		expect(true).to.equal(true);
 	});
 });
 
